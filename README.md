@@ -25,3 +25,16 @@ View/Trigger Alarms	Queue / Priority Queue	Maintain time-based order
 Edit/Delete	Linked List	Easy search and update by ID/label
 Snooze	Array / Linked List	Reschedule alarms and track snooze count
 Permanent Storage	File Handling (CSV/TXT)	Persist alarms between sessions
+
+
+## Project Output
+
+Here is the output of my project:
+
+Alarm Clock Screenshot 1:
+
+![Alarm](Screenshots/Alarm.PNG)
+
+Alarm Clock Screenshot 2:
+
+![Output](Screenshots/Output.PNG)
