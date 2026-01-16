@@ -31,10 +31,10 @@ Permanent Storage	File Handling (CSV/TXT)	Persist alarms between sessions
 
 Here is the output of my project:
 
-Alarm Clock Screenshot 1:
+Alarm Clock Data File Screenshot:
 
 ![Alarm](Screenshots/Alarm.PNG)
 
-Alarm Clock Screenshot 2:
+Alarm Clock Display Screenshot:
 
 ![Output](Screenshots/Output.PNG)
